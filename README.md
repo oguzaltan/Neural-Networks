@@ -9,15 +9,15 @@ Biological neural networks. Artificial neural networks. Basic neuron. Modeling t
 - Finding the probability distribution of a network with a number of neurons.
 - Building a neural network to perform a simple logic formula.
 - Building a single layer perceptron to learn the representations of letters in the alphabet.
-- Implemented in Python (Jupyter Notebook)
+- Implemented with MATLAB
 
 ### Mini Project 2
 - Proving the solution of mean squared error loss.
 - Design and implement a neural network from scratch, and train it for a binary classification (car vs cat) problem.
 - Implement a neural network that predicts the fourth word given the initial three. A simple NLP application.
-- Implemented in Python (Jupyter Notebook)
+- Implemented with MATLAB
 
 ### Mini Project 3
 - Unsupervised feature extraction using a sparse auto-encoders. MSE loss function with the addition of Tikhonov (L2) regularization and KL-Divergence to ensure sparsity.
 - Observation and completion of networks about CNNs, PyTorch and TensorFlow.
-- Implemented in Python (Jupyter Notebook)
+- Implemented both with MATLAB and Python (Jupyter Notebook)
