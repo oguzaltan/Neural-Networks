@@ -1,4 +1,4 @@
-# EE443_Neural_Networks
+# Neural_Networks
 This repository contains mini projects created and submitted for the course EE443 Neural Networks, provided by Bilkent University Electrical & Electronics Engineering Department. 
 
 ## Course Content
